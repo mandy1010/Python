@@ -1,3 +1,10 @@
+
+"""
+Typing Game for Kids
+Authur: Mandy H.
+Date: 17 June 2016
+"""
+
 def open_file(filename):
     input_file = open(filename)
     content = input_file.read()
