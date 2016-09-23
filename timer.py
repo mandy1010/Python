@@ -1,4 +1,3 @@
-
 """
 Typing Game for Kids
 Authur: Mandy H.
