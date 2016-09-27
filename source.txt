@@ -1,11 +1,8 @@
-27.5.2. Python Interface
+The autumn in New Zealand is cool and mild. The maple tree leafs are turning red, and begin to fall of the trees. In a certain sence it is very nice to enjoy the view when people drive or walk. It is good to go to Queenstown to have a look of the beautiful scenery.
 
-The module defines three convenience functions and a public class:
+Places to see the autumn colour in New Zealand:
 
-timeit.timeit(stmt='pass', setup='pass', timer=<default timer>, number=1000000, globals=None)
-
-    Create a Timer instance with the given statement, setup code and timer function and run its timeit() method with number executions. The optional globals argument specifies a namespace in which to execute the code.
-
-    Changed in version 3.5: The optional globals parameter was added.
-
-timeit.repeat(stmt='pass', setup='pass', timer=<default timer>,
+Mackenzie Country
+Lake Tekapo and Lake Pukaki
+The Waitaki Valley
+Lake Benmore and Lake Aviemore
